@@ -20,6 +20,9 @@
 * Instalación y Configuración de Angular 14.0.6
 * Primer Proyecto con Angular: Hola Mundo
 
+### Repo:
+* En este repositorio encontrarán los archivos creados durante la clase, incluyendo el dashboard en Angular que clonamos.
+
 ---
 #### Te compartimos link en el cual vamos a ir subiendo las herramienta a utilizar.
 * [Herramientas](https://gist.github.com/BiarqGabriel/535122a685b1768dc04bb5be4f0e0904)
